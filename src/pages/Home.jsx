@@ -38,7 +38,7 @@ const Home = () => {
     // Chuyển trang sau 500ms
     setTimeout(() => {
       pause();
-      navigate("/valentine");
+      navigate("/valentine-gift");
     }, 500);
   };
 
